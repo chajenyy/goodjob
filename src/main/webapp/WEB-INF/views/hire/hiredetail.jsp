@@ -49,7 +49,7 @@
 
 .review_main{
 	border: 1px solid #ebebeb;
-}
+} 
 
 /* img{
 	width:50px;
